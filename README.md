@@ -1,6 +1,6 @@
-- 👋Hi, my name is Stelios Trimis and I'm 22 years. I am leaving in Greece .
+- 👋Hi, my name is Stelios Trimis and I'm 25 years. I am living in Greece .
 
-- 👀I'm college student at the University of Ioannina, in the IT and Telecommunications sector, and im following Software Engineering. 
+- 👀I've graduated from University of Ioannina, in the IT and Telecommunications sector, and im following Software Engineering. 
 
 - 🙌All my life want to be a programmer, because in the future I will really like meeting new people from all over the world and we will exchange different views about ours job
       and programming things.
@@ -9,6 +9,6 @@
 
 - 🤓Languages i use for Backend is : C , C++ , Java and for Frontend : Html , CSS , Javascript.
 
-- 🧐Languages and things i want to learn in the future is : Python , PhP , Sql 
+- 🧐Excelent knowlegde of Spring Framework.
 
 - 😉Contact Me : stltrimis@gmail.com (Please tell me that you are from the github 😊).
