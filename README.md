@@ -30,7 +30,7 @@ Sometimes the bravest thing you can do is hit pause, change your scenery, and gi
 
 ## 📌 Small Projects That Represent Me
 
-//in progress
+Small, focused projects that showcase my approach to clean, practical development.
 
 ---
 
